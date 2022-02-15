@@ -7,3 +7,8 @@
 - [ ] Create SDKs for Node.JS       2 weeks
 - [ ] Create SDKs for Frontend JS   2 weeks
 - [ ] Create SDKs for Kotlin        1 month
+
+
+## Requests
+
+- [ ] If the Safety app is online, can I get the app so i can feel the UX and flow of the the agora service.
